@@ -1902,6 +1902,103 @@
     }
   ],
   "questions": [],
-  "cartitems": [],
-  "likeditems": []
+  "cartitems": [
+    {
+      "id": "likeditem52",
+      "newid": 52,
+      "productimage": "https://p.rmjo.in/moodShot/vj8xcbqr-1024x512.jpg",
+      "title": "Casper L-Shaped Fabric Sofa",
+      "rent": "1249",
+      "deliverytime": "72 hrs",
+      "dimensions": [
+        83,
+        31,
+        32
+      ],
+      "producttype": "Sofas",
+      "description": "With the Casper L-Shaped Sofa, elegance and comfort find a new name. This plush design with soft fabric exterior and ergonomic armrest and a pouf to extend the 3 seaters to an L shaped one.",
+      "features": [
+        "Fully upholstered couch",
+        "Soft foam cushioning",
+        "Added pouf that serves as extender"
+      ],
+      "material": "Fabric & Wood",
+      "color": "Grey",
+      "deposit": "1719",
+      "category": "furniture"
+    }
+  ],
+  "likeditems": [
+    {
+      "id": "likeditem51",
+      "newid": 51,
+      "productimage": "https://p.rmjo.in/moodShot/ifv17023-1024x512.jpg",
+      "title": "Rex 3-Seater Leather Sofa",
+      "rent": "739",
+      "deliverytime": "48 hrs",
+      "dimensions": [
+        83,
+        31,
+        32
+      ],
+      "producttype": "Sofas",
+      "description": " Meet Rex, the couch that's here to redefine class. If you're looking for a chance treat yourself (and your living room) with a bit of luxury, get the Rex. Best part? It matches any home decor.",
+      "features": [
+        "Leatherette covering",
+        "Foam filling"
+      ],
+      "material": "Art Leather",
+      "color": "Black",
+      "deposit": "1009",
+      "category": "furniture"
+    },
+    {
+      "id": "likeditem52",
+      "newid": 52,
+      "productimage": "https://p.rmjo.in/moodShot/vj8xcbqr-1024x512.jpg",
+      "title": "Casper L-Shaped Fabric Sofa",
+      "rent": "1249",
+      "deliverytime": "72 hrs",
+      "dimensions": [
+        83,
+        31,
+        32
+      ],
+      "producttype": "Sofas",
+      "description": "With the Casper L-Shaped Sofa, elegance and comfort find a new name. This plush design with soft fabric exterior and ergonomic armrest and a pouf to extend the 3 seaters to an L shaped one.",
+      "features": [
+        "Fully upholstered couch",
+        "Soft foam cushioning",
+        "Added pouf that serves as extender"
+      ],
+      "material": "Fabric & Wood",
+      "color": "Grey",
+      "deposit": "1719",
+      "category": "furniture"
+    },
+    {
+      "id": "likeditem53",
+      "newid": 53,
+      "productimage": "https://p.rmjo.in/moodShot/sbg8gqe1-1024x512.jpg",
+      "title": "Brooklyn 1-Seater Fabric Sofa",
+      "rent": "299",
+      "deliverytime": "24 hrs",
+      "dimensions": [
+        24,
+        30,
+        32
+      ],
+      "producttype": "Sofas",
+      "description": "With the Brooklyn Sofa , elegance and comfort find a new name. With unmatched comfort and endless options to deck it up, your couch crasher friends will love it, and so will you",
+      "features": [
+        "Fully upholstered couch",
+        "Soft foam cushioning",
+        "Added pouf that serves as extender"
+      ],
+      "material": "Fabric & Wood",
+      "color": "Blue",
+      "deposit": "409",
+      "category": "furniture"
+    }
+  ]
 }
