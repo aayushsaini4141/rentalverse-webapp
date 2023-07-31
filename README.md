@@ -43,10 +43,4 @@
 6.  Chakra-Ui
 7.  JSON-Server
 
-## Tools Used
 
-###### • Github for code collaboration.
-###### • Slack and Zoom for communication.
-
-## Feedback:
-If you want to suggest us anything or want to give us feedback then please connect us at yrahul9452@gmail.com, mallikarjunaannigeri27@gmail.com, piyushnarkhede02@gmail.com, rupeshchavan12498@gmail.com, sraushan890@gmail.com
